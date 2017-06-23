@@ -1,0 +1,11 @@
+{
+  "name": "example-php-trialworkout",
+  "version": "0.0.1",
+  "description": "Landingpage to book a trial workout with appointman",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-compress": "~0.13.0"
+  },
+  "devDependencies": {}
+}
